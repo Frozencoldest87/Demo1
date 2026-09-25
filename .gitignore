@@ -1,0 +1,5 @@
+# specific files
+confidential.txt
+
+# Ignore folders
+secrets/

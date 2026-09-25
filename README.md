@@ -1,7 +1,14 @@
-# Demo Repository
+# Traversing Markdown Language Project
 
-🚀 This is a demo repository for the Version Control Essentials course.
+## Installation
+**Follow listed steps in order and monitor closely any sub-listings that are sequential.**
+### Usage
+*Instructions for using the Traversing Markdown Language Project are relative to most instructions with some subtle differences that will be listed in sequential ordered list.*
 
-🧠 README files are used to provide information about the project, such as how to install it, how to use it, and how to contribute to it.
+1.Use according to usage instructions for this particular Project.
+2.Follow all according instructions for other areas within project
+#### Contributing
+*Instructions for Contributing to the project are as listed.
 
-🔻 You can use Markdown to format your README file. Markdown is a lightweight markup language that allows you to write formatted text using plain text syntax. You can learn more about Markdown at [https://www.markdownguide.org/](https://www.markdownguide.org/).
+1.Pull requests are welcome! If submitting a new story: Place it in a new folder under/your-story-name/.Please keep your Markdown clean, readable, and consistent. Make sure all links resolve correctly.
+

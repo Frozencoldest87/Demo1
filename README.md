@@ -1,6 +1,7 @@
 # Traversing Markdown Language Project
 
 ## Installation
+
 **Follow listed steps in order and monitor closely any sub-listings that are sequential.**
 ### Usage
 *Instructions for using the Traversing Markdown Language Project are relative to most instructions with some subtle differences that will be listed in sequential ordered list.*

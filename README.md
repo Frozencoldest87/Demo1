@@ -14,4 +14,3 @@
 1.Puller requests are welcome! If submitting a new story: Place it in a new folder under/your-story-name/.Please keep your Markdown clean, readable, and consistent. Make sure all links resolve correctly.
 
 ##this is a test feature##love#
-#Dev branch#
